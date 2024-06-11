@@ -8,7 +8,7 @@ spring:
         git:
           uri: https://github.com/killeradmin123/Syed-demo-spring
           username: killeradmin123
-          password: 
+          password: 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
           clone-on-start: true
           default-label: main
 server:
