@@ -1,5 +1,5 @@
 spring:
-  datasouce:
+  datasource:
     url: jdbc:mysql://localhost:3306/ordercgidevdb
     username: root
     password: root
